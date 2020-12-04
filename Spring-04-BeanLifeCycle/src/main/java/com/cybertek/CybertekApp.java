@@ -14,6 +14,6 @@ public class CybertekApp {
         course.getTeachingHours();
 
         ((ClassPathXmlApplicationContext)container).close();
-
+        
     }
 }
